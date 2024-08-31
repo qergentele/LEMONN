@@ -1,0 +1,14 @@
+{
+  "name": "technicalsupport",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "boop1684",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
